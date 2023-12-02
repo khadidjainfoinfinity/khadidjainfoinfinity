@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/4ytFX3Vv/amor-park-sunghoon.gif" width="100%">
+<img src="https://i.postimg.cc/B6PDXYNs/Imgur.gif" width="100%">
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=2500&pause=1000&color=BF91F7&random=false&width=435&height=60&lines=HI+!%F0%9F%A4%8D;I'+am+khadidja" alt="Typing SVG" />
