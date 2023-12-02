@@ -1,12 +1,14 @@
-<img src="https://i.postimg.cc/k4MnVkft/Waneella-Pixel-Art-GIF-Waneella-Pixel-Art-Urban-Discover-Share-GIFs.gif" width="400">
+<img src="https://i.postimg.cc/4ytFX3Vv/amor-park-sunghoon.gif" width="100%">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=2500&pause=1000&color=BF91F7&random=false&width=435&height=60&lines=HI+!%F0%9F%A4%8D;I'+am+khadidja" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=2500&pause=1000&color=BF91F7&random=false&width=435&height=60&lines=HI+!%F0%9F%A4%8D;I'+am+khadidja" alt="Typing SVG" />
 </div>
 
 <h1 align="center">A passionate frontend developer from Algeria  <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hello-kitty/smileys-hello-kitty-692466.gif" border="0" title="Click here for more gifs and graphics" /> </h1>
 
-<img align="right" alt="Coding" width="400px" src="https://i.postimg.cc/D0xH5bCz/Debbie-Balboa-Photo.gif" >
+ <img align="right" alt="Coding" width="400px" src="https://i.postimg.cc/2yQFHcsm/ALL-OF-THE-WEIRDEST-ANIMAL-CAF-S-IN-SEOUL.gif" >
+</div>
+
 
 <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" /> I’m currently working on creating website templates (frontend)
 
