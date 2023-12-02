@@ -1,3 +1,4 @@
+<img src="https://i.postimg.cc/k4MnVkft/Waneella-Pixel-Art-GIF-Waneella-Pixel-Art-Urban-Discover-Share-GIFs.gif" width="400">
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=2500&pause=1000&color=BF91F7&random=false&width=435&height=60&lines=HI+!%F0%9F%A4%8D;I'+am+khadidja" alt="Typing SVG" /></a>
