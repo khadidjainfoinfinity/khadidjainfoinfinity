@@ -1,16 +1,30 @@
-### Hi there 👋
+<img src="https://i.postimg.cc/C5SKNpHM/Proper-quarantining.gif" width="100%" height="300px">
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=2500&pause=1000&color=BF91F7&random=false&width=435&height=60&lines=HI+!%F0%9F%A4%8D;I'+am+khadidja" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**khadidjainfoinfinity/khadidjainfoinfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">A passionate frontend developer from Algeria  <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hello-kitty/smileys-hello-kitty-692466.gif" border="0" title="Click here for more gifs and graphics" /> </h1>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400px" src="https://i.postimg.cc/D0xH5bCz/Debbie-Balboa-Photo.gif" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" /> I’m currently working on creating website templates (frontend)
+
+
+ <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" /> I’m currently learning bootstrap , angular .
+
+<img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" />  How to reach me infoinfinitykhadidja@gmail.com
+
+<img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" /> fell free to contact me
+
+
+<div align="center" >
+  <h1> Contact Info <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hello-kitty/smileys-hello-kitty-824798.gif" border="0" title="Click here for more gifs and graphics"/> </h1>
+<p>
+<a href="https://codepen.io/@khadidjainfoinfinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@khadidjainfoinfinity" height="30" width="40" /></a>
+<a href="https://instagram.com/@_infoinfinity_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_infoinfinity_" height="30" width="40" /></a>
+<a href="https://www.behance.net/infoinfinitykhadidja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="infoinfinitykhadidja" height="30" width="40" /></a>
+</p>
+  
+<h1>Languages and Tools:<img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hello-kitty/smileys-hello-kitty-556945.gif" border="0" title="Click here for more gifs and graphics" /> </h1>
+<p > <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
