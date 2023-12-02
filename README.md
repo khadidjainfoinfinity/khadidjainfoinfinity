@@ -6,8 +6,8 @@
 
 <h1 align="center">A passionate frontend developer from Algeria  <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hello-kitty/smileys-hello-kitty-692466.gif" border="0" title="Click here for more gifs and graphics" /> </h1>
 
- <img align="right" alt="Coding" width="400px" src="https://i.postimg.cc/2yQFHcsm/ALL-OF-THE-WEIRDEST-ANIMAL-CAF-S-IN-SEOUL.gif" >
-</div>
+ <img align="right" alt="Coding" width="400px" src="https://i.postimg.cc/dV0Y2zC2/Debbie-Balboa-2.gif" >
+
 
 
 <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" /> I’m currently working on creating website templates (frontend)
