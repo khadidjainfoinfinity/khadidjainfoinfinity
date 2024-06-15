@@ -17,7 +17,7 @@
 
 <img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" />  How to reach me infoinfinitykhadidja@gmail.com
 
-<img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" /> fell free to contact me
+<img src="https://www.picgifs.com/emoticons/smileys-and-emoticons/hearts/smileys-hearts-112564.gif" border="0" title="Click here for more gifs and graphics" />  feel free to contact me
 </br> 
 
 <div align="center" >
